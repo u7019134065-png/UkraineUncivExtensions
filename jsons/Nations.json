@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Україна",
+        "leaderName": "Володимир Зеленський",
+        "adjective": ["Український"],
+        "startBias": ["Plains", "Grassland"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Christianity",
+        "startIntroPart1": "Слава Україні!",
+        "startIntroPart2": "Ми — нація, яка ніколи не здається.",
+        "outerColor": [255, 215, 0],
+        "innerColor": [0, 87, 183],
+        "uniqueName": "Непохитність духу",
+        "uniques": [
+            "+20% [Production] towards military units in cities with [Garrison]",
+            "+1 [Food] and +1 [Production] from [Wheat] and [Maize] tiles"
+        ],
+        "cities": ["Київ", "Львів", "Харків", "Одеса", "Дніпро", "Запоріжжя", "Донецьк", "Кривий Ріг"],
+        "spyNames": ["Степан", "Тарас", "Ольга", "Богдан", "Ірина"]
+    }
+]
