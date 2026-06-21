@@ -265,5 +265,23 @@
         "cost": 280,
         "uniqueTo": "Україна",
         "cityStrength": 70
+    },
+    {
+        "name": "Постройка Золотой елды",
+        "cost": 1500,
+        "uniqueTo": "Україна",
+        "gold": 2500,
+        "science": 2500,
+        "percentStatBonus": {
+            "science": 500
+        },
+        "culture": 1000,
+        "faith": 1000,
+        "production": 5000,
+        "cityStrength": 350,
+        "uniques": [
+            "+350% [City Strength] for units stationed here",
+            "+350 [City Strength]"
+        ]
     }
 ]
