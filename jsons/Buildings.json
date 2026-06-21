@@ -1,0 +1,225 @@
+[
+    {
+        "name": "Яма",
+        "cost": 20,
+        "gold": 15
+    },
+    {
+        "name": "Маленька шахта",
+        "cost": 35,
+        "gold": 30
+    },
+    {
+        "name": "Звичайна шахта",
+        "cost": 60,
+        "gold": 70
+    },
+    {
+        "name": "Велика шахта",
+        "cost": 120,
+        "gold": 200
+    },
+    {
+        "name": "Гігантська шахта",
+        "cost": 220,
+        "gold": 500
+    },
+    {
+        "name": "Мінеральна шахта",
+        "cost": 400,
+        "gold": 1000
+    },
+    {
+        "name": "Хвилина мовчання",
+        "cost": 25,
+        "happiness": 30
+    },
+    {
+        "name": "Герб",
+        "cost": 70,
+        "happiness": 120
+    },
+    {
+        "name": "Прапор єдності",
+        "cost": 45,
+        "happiness": 20
+    },
+    {
+        "name": "Парк пам’яті",
+        "cost": 60,
+        "happiness": 40
+    },
+    {
+        "name": "Дім громади",
+        "cost": 85,
+        "happiness": 60
+    },
+    {
+        "name": "Площа свободи",
+        "cost": 120,
+        "happiness": 80
+    },
+    {
+        "name": "Музична сцена",
+        "cost": 150,
+        "happiness": 100
+    },
+    {
+        "name": "Свято нації",
+        "cost": 190,
+        "happiness": 140
+    },
+    {
+        "name": "Мега офіс",
+        "cost": 300,
+        "science": 500,
+        "percentStatBonus": {
+            "science": 500
+        }
+    },
+    {
+        "name": "Науковий центр",
+        "cost": 80,
+        "science": 25
+    },
+    {
+        "name": "Лабораторія",
+        "cost": 120,
+        "science": 50
+    },
+    {
+        "name": "Академія",
+        "cost": 160,
+        "science": 75
+    },
+    {
+        "name": "Дослідницький інститут",
+        "cost": 220,
+        "science": 100
+    },
+    {
+        "name": "Обчислювальний вузол",
+        "cost": 280,
+        "science": 150
+    },
+    {
+        "name": "Квантовий блок",
+        "cost": 350,
+        "science": 200
+    },
+    {
+        "name": "Суперкомп’ютер",
+        "cost": 430,
+        "science": 250
+    },
+    {
+        "name": "Мережа знань",
+        "cost": 520,
+        "science": 300
+    },
+    {
+        "name": "Центр інновацій",
+        "cost": 650,
+        "science": 400
+    },
+    {
+        "name": "Клуб",
+        "cost": 40,
+        "culture": 10
+    },
+    {
+        "name": "Музей",
+        "cost": 70,
+        "culture": 25
+    },
+    {
+        "name": "Театр",
+        "cost": 120,
+        "culture": 50
+    },
+    {
+        "name": "Меморіал",
+        "cost": 180,
+        "culture": 100
+    },
+    {
+        "name": "Національний дім",
+        "cost": 260,
+        "culture": 200
+    },
+    {
+        "name": "Майстерня",
+        "cost": 40,
+        "production": 10
+    },
+    {
+        "name": "Завод",
+        "cost": 80,
+        "production": 25
+    },
+    {
+        "name": "Верф",
+        "cost": 140,
+        "production": 50
+    },
+    {
+        "name": "Комбінат",
+        "cost": 220,
+        "production": 100
+    },
+    {
+        "name": "Високий цех",
+        "cost": 320,
+        "production": 200
+    },
+    {
+        "name": "Каплиця",
+        "cost": 40,
+        "faith": 10
+    },
+    {
+        "name": "Храм",
+        "cost": 80,
+        "faith": 25
+    },
+    {
+        "name": "Святиня",
+        "cost": 140,
+        "faith": 50
+    },
+    {
+        "name": "Монастир",
+        "cost": 220,
+        "faith": 100
+    },
+    {
+        "name": "Собор",
+        "cost": 320,
+        "faith": 200
+    },
+    {
+        "name": "Фортеця",
+        "cost": 50,
+        "cityStrength": 10
+    },
+    {
+        "name": "Бастіон",
+        "cost": 90,
+        "cityStrength": 20
+    },
+    {
+        "name": "Вал",
+        "cost": 130,
+        "cityStrength": 30
+    },
+    {
+        "name": "Цитадель",
+        "cost": 200,
+        "cityStrength": 50
+    },
+    {
+        "name": "Оборонний комплекс",
+        "cost": 280,
+        "cityStrength": 70
+    }
+]
