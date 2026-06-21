@@ -1,91 +1,91 @@
 [
     {
         "name": "Яма",
-        "cost": 20,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 15
     },
     {
         "name": "Маленька шахта",
-        "cost": 35,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 30
     },
     {
         "name": "Звичайна шахта",
-        "cost": 60,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 70
     },
     {
         "name": "Велика шахта",
-        "cost": 120,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 200
     },
     {
         "name": "Гігантська шахта",
-        "cost": 220,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 500
     },
     {
         "name": "Мінеральна шахта",
-        "cost": 400,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 1000
     },
     {
         "name": "Хвилина мовчання",
-        "cost": 25,
+        "cost": 2,
         "uniqueTo": "Україна",
         "happiness": 30
     },
     {
         "name": "Герб",
-        "cost": 70,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 120
     },
     {
         "name": "Прапор єдності",
-        "cost": 45,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 20
     },
     {
         "name": "Парк пам’яті",
-        "cost": 60,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 40
     },
     {
         "name": "Дім громади",
-        "cost": 85,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 60
     },
     {
         "name": "Площа свободи",
-        "cost": 120,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 80
     },
     {
         "name": "Музична сцена",
-        "cost": 150,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 100
     },
     {
         "name": "Свято нації",
-        "cost": 190,
+        "cost": 1,
         "uniqueTo": "Україна",
         "happiness": 140
     },
     {
         "name": "Мега офіс",
-        "cost": 300,
+        "cost": 1,
         "uniqueTo": "Україна",
         "science": 500,
         "percentStatBonus": {
@@ -94,7 +94,7 @@
     },
     {
         "name": "Науковий центр",
-        "cost": 80,
+        "cost": 1,
         "uniqueTo": "Україна",
         "science": 25
     },
@@ -262,13 +262,13 @@
     },
     {
         "name": "Оборонний комплекс",
-        "cost": 280,
+        "cost": 1,
         "uniqueTo": "Україна",
         "cityStrength": 70
     },
     {
         "name": "Постройка Золотой елды",
-        "cost": 1500,
+        "cost": 1,
         "uniqueTo": "Україна",
         "gold": 2500,
         "science": 2500,
