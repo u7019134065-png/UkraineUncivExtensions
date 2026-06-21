@@ -98,7 +98,7 @@
         "leaderName": "Null Pointer",
         "adjective": "Хакерський",
         "startBias": ["Coast", "Plains"],
-        "preferredVictoryType": "Science",
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "Доступ отримано.",
         "startIntroPart2": "Система вже відкрита.",
         "outerColor": [40, 40, 40],
