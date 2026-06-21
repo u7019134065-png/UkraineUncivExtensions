@@ -2,7 +2,7 @@
     {
         "name": "Україна",
         "leaderName": "Володимир Зеленський",
-        "adjective": ["Український"],
+        "adjective": "Український",
         "startBias": ["Plains", "Grassland"],
         "preferredVictoryType": "Cultural",
         "favoredReligion": "Christianity",
