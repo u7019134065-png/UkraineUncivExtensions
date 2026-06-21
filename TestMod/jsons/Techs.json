@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Test Technology",
+        "cost": 20,
+        "era": "Ancient",
+        "uniques": [],
+        "quote": "This is a test technology.",
+        "prerequisites": []
+    }
+]

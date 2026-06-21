@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Test Warrior",
+        "unitType": "Melee",
+        "movement": 2,
+        "strength": 15,
+        "cost": 40,
+        "requiredTech": "Test Technology",
+        "uniques": [],
+        "obsoleteTech": []
+    }
+]
